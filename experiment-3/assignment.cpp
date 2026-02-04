@@ -1,5 +1,7 @@
 // UID - 24BCS12303
 
+// Stable Attendance Window
+
 #include <iostream>
 #include <vector>
 #include <unordered_map>
